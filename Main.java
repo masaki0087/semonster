@@ -3,6 +3,5 @@ public class Main {
     System.out.println("SEMonster!");
     Monster m = new Monster();
     System.out.println(m);
-    System.out.println("Wrong Message!!");
   }
 }
